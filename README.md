@@ -51,5 +51,4 @@ Visit [online](https://kostasdimakis.github.io/Health-Tracker/dist/).
 * [Bower](https://bower.io/) - A package manager for the web.
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 
-## LICENSE
-MIT © [Kostas Dimakis](https://github.com/KostasDimakis)
+

@@ -28,8 +28,7 @@ HealthTracker.Models = HealthTracker.Models || {};
     },
 
     parse: function(response, options)  {
-      /* jshint unused:false */
-      // Add a local time & date attribute to the model
+     
       response.date = new Date(response.timestamp).toLocaleString();
       return response;
     }

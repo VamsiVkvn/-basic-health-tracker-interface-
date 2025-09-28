@@ -20,5 +20,4 @@ HealthTracker.Collections = HealthTracker.Collections || {};
     }
 
   });
-
 })();

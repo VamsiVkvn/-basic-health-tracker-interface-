@@ -1,4 +1,4 @@
-/*global HealthTracker, Backbone*/
+
 
 HealthTracker.Routers = HealthTracker.Routers || {};
 

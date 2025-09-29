@@ -1,7 +1,6 @@
 # Health-Tracker
 
-Health-Tracker (scaffolded using [Yeoman](http://yeoman.io/)'s [backbone generator](https://github.com/yeoman/generator-backbone)) was developed to showcase my understanding of [Backbone.js](http://backbonejs.org/) and handling of API requests. It's an optional project of [Udacity](https://www.udacity.com/)'s [Front End Web Devloper Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
-
+Health-Tracker (scaffolded using [Yeoman](http://yeoman.io/)'s [backbone generator](https://github.com/yeoman/generator-backbone)) was developed to showcase my understanding of [Backbone.js](http://backbonejs.org/) and handling of API requests. I
 ## Overview
 
 This web app tracks the foods you eat throughout the day, keeping score on calories, proteins, carbs and fats. It features a searchable directory powered by [Nutritionix](https://www.nutritionix.com/), so no matter how sinful or healthy your cravings are you can track them! 
@@ -25,9 +24,6 @@ _These features are not currently being developed._
 | Timeline | Foods organized by day, while tracking daily totals of calories and macro-nutrients. |
 | Account | Authentication system so a user can keep track across devices. |
 
-## Use the app
-
-Visit [online](https://kostasdimakis.github.io/Health-Tracker/dist/).
 
 ## Contribute
 
